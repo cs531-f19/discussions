@@ -2,7 +2,7 @@
 
 Dear students of the [ODU CS 431/531 Web Server Design, Fall 2019, course](https://cs531-f19.github.io/),
 
-* Add your `CS ID`, `Private Repository Reference` (i.e., `<GitHub ID>/<Repo Name>`), and `Full Name` in the `members.csv` file
+* Add your `CS ID`, `Full Name`, `GitHub ID`, and `Private Repository Name` in the `members.csv` file
 * Subscribe to this repository to get notifications for all issues and commenets
 * [Create an issue](https://github.com/cs531-f19/discussions/issues/new) to discuss your course related problems and finidings with everyone in the class
 * Periodically check and participate in [posted issues](https://github.com/cs531-f19/discussions/issues)
